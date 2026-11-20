@@ -1,0 +1,11 @@
+.venv/
+venv/
+data/
+checkpoints/
+*.npy
+*.tar
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
